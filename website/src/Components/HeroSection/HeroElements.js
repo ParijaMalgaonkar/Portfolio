@@ -103,7 +103,7 @@ export const DownloadButton = styled.div`
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #de3163;
+    background: #de7863;
     color: black;
     border-radius: 50px;
     font-size: 20px;
