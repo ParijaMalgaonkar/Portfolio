@@ -14,11 +14,12 @@ const HeroSection = () => {
                 <HeroH2>Something magnificient is under construction!<br />
                 Meanwhile, take a look at my resume</HeroH2>
                 <HeroBtnWrapper>
-                    <a style={{textDecoration: "none"}} href="../../ParijaMalgaonkarResume.pdf" download> 
+                    
                         <DownloadButton>
-                            Download Resume
+                        <a style={{textDecoration: "none"}} href="../../ParijaMalgaonkarResume.pdf" download> 
+                            Download Resume  </a>
                         </DownloadButton>
-                    </a>
+                   
                 
                 </HeroBtnWrapper>
             </HeroContent>
