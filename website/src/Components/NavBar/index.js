@@ -23,7 +23,7 @@ const Navbar = ({toggle}) => {
                         </NavItem>
                     </NavMenu>
                     <NavBtn>
-                        <a style={{textDecoration: 'none'}}href="https://github.com/ParijaMalgaonkar"  target="_blank">
+                        <a style={{textDecoration: 'none'}}href="https://github.com/ParijaMalgaonkar"  target="_blank" rel="noreferrer">
                         <NavBtnLink>GitHub Profile</NavBtnLink></a>
                     </NavBtn>
 
